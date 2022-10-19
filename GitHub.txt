@@ -1,0 +1,39 @@
+
+Git and Github 
+
+		---GIT AND GITHUB ACCOUNT CREATION------
+
+	1. Go to google search for github.com 
+	2. Signup 
+
+
+----------------CREATING A REPOSITORY ON GITHUB-------------------------------------
+
+	-On homepage of github select "Create Repository" 
+	- Type repository "Name" 
+	- Select Public/Private 
+	- Check "Add a Readme File" 
+	- Create a Repository 
+
+   Adding File on repository 
+     - click on create file and then copy paste or add it from the desktop. 
+
+
+
+-------------------------------------------------------------------------------------------------------------------------
+
+	## download git scm (64 bit GIt for Windows setup) ------- Standalone Installer
+	## Gitbash on the command screen. 
+
+ Copying file from GIT 
+
+	- Go to the folder where the code needs to be copied 
+	- then open the git bash 
+
+
+------------GIT COMMANDS----------------------
+
+cd - change directions 
+ls - list content 
+
+	 
